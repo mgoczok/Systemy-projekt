@@ -5,6 +5,8 @@ system rezerwacji powienien miec:
 -dlugosc wypozyczenia
 -mozliwosc przedluzenia maksymalnie 5 dni przed koncem przedluzenia
 -rejestracja i logowanie klienta, tworzenie zsprzedawcy 
+-cena wypozyczenia
+-platnosc totówka lub online
 
 sprzedawca ma mozliwosc obslugi klienta, wypozyczenia gier, przyjecia gry z powrotem
 klient -mozliwosc wypozyczenia, zwrot gry. rezerwacja gry
