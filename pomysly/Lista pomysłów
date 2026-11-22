@@ -1,0 +1,23 @@
+- system kar za uszkodzenia lub nieterminowość
+- automatycznie naliczane promocje sezonowe i zniżki dla stałych klientów 
+- limit ilości aktywnych wypożyczeń na osobę 
+- wyporzyczenie grier
+system rezerwacji powienien miec:
+- kategorierie gier
+- dostępnosc
+- dlugosc wypozyczenia
+- mozliwosc przedluzenia maksymalnie 5 dni przed koncem przedluzenia
+- rejestracja i logowanie klienta, tworzenie zsprzedawcy 
+- cena wypozyczenia
+- platnosc totówka lub online
+- dodawanie nowych gier do oferty
+- usuwanie gier z oferty
+- zmiana ceny za godzinę gry
+- zarządzanie kontami klientów
+- zarządzanie kontami pracowników
+- sprawdzanie przychodów wypożyczalni
+- tworzenie promocji 
+- sprawdzanie liczby klientów
+- przy wypożyczeniu wybór z możliwością przedłużenia lub bez wraz z maksymalnym okresem przedłużenia
+- podział stref na ciche i głośne
+- sprzedawca poleca klientom najlepsze dla nich oferty
