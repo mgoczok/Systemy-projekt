@@ -1,4 +1,4 @@
-temat - Wypożyczalnia gier.
+temat - Wypożyczalnia gier..
 
 ```
 | Aktorzy    | systemy zewnętrzne | 
