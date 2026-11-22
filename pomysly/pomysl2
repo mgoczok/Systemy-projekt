@@ -1,1 +1,10 @@
+-wyporzyczenie grier
+system rezerwacji powienien miec:
+-kategorierie gier
+-dostępnosc
+-dlugosc wypozyczenia
+-mozliwosc przedluzenia maksymalnie 5 dni przed koncem przedluzenia
+-rejestracja i logowanie klienta, tworzenie zsprzedawcy 
 
+sprzedawca ma mozliwosc obslugi klienta, wypozyczenia gier, przyjecia gry z powrotem
+klient -mozliwosc wypozyczenia, zwrot gry. rezerwacja gry
