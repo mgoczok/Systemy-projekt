@@ -1,0 +1,10 @@
+1. Klient może założyć konto i zalogować się do systemu.
+2. Klient może przeglądać gry według kategorii.
+3. Klient może sprawdzić, czy dana gra jest dostępna.
+4. Klient może zarezerwować i wypożyczyć grę na wybrany okres.
+5. Klient może przedłużyć wypożyczenie maksymalnie 5 dni przed końcem terminu.
+6. Klient może zapłacić za wypożyczenie gotówką lub online.
+7. System nalicza kary za uszkodzenie gry lub spóźnienie ze zwrotem.
+8. System oferuje promocje sezonowe i zniżki dla stałych klientów.
+9. System ogranicza liczbę gier, które jedna osoba może wypożyczyć jednocześnie.
+10. Sprzedawca może dodawać i usuwać gry, obsługiwać klientów oraz sprawdzać przychody.
